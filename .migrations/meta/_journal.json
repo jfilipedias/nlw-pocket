@@ -8,6 +8,13 @@
       "when": 1725936441686,
       "tag": "0000_chubby_mandroid",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1725937226575,
+      "tag": "0001_steady_omega_sentinel",
+      "breakpoints": true
     }
   ]
 }
